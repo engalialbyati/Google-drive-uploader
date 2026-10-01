@@ -1,0 +1,7 @@
+# Private / machine-specific files — never commit these
+default_link.txt
+settings.json
+upload_report.txt
+missing_on_drive.txt
+__pycache__/
+*.pyc
